@@ -1,3 +1,6 @@
+This repository was migrated and might be deleted in the future.
+Please refer to https://github.com/Shidacea/Collishi for the new repository.
+
 # Collishi
 
 Collishi is a fast 2D collision library for C++ supporting several primitive shapes.
